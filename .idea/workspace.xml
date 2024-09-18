@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="514ab8de-7bd2-442c-bc9e-b08ecc3c6cca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/backend/model/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/backend/model/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/backend/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/backend/controller/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/backend/controller/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/backend/repository/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/backend/service/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/project/backend/service/PostService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/backend/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/project/backend/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/backend/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/project/backend/model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/project/backend/repository/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/project/backend/repository/PostRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +258,7 @@
       <workItem from="1725871301015" duration="12509000" />
       <workItem from="1725944829097" duration="1153000" />
       <workItem from="1725946133468" duration="2017000" />
-      <workItem from="1726541417344" duration="26845000" />
+      <workItem from="1726541417344" duration="30048000" />
     </task>
     <servers />
   </component>

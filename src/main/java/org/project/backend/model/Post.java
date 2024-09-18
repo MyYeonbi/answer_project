@@ -21,6 +21,13 @@ public class Post {
     private double latitude;
     private double longitude;
 
+    private int likes = 0;
+
+    public void addLike() {
+        this.likes++;
+    }
     // Getter, Setter
+
+
 
 }
